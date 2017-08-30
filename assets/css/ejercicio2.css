@@ -1,0 +1,26 @@
+/*/////////ejercicio 2/////////*/
+.cajitas{
+    margin: 10px;
+    
+    text-align: center;
+    float: left;
+    /* display: inline-block; */ 
+    color:white;
+}
+#contenedor{
+    width: 440px;
+}
+#uno{
+    width: 300px;
+    height: 300px;
+    background-color: skyblue;
+}
+.opcion{
+    width: 100px;
+    height: 100px;
+    background-color: purple;
+}
+.clear-left{
+    clear: left;
+}
+/*/////////////////////////*/

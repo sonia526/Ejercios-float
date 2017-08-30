@@ -1,0 +1,26 @@
+/* body{
+	padding: 30px;
+
+}
+.anterior{
+	float: left;
+}
+.siguiente{
+	float: right;
+} */
+/*/////////////la parte de arriba solo es float//////////////*/
+
+/*abajo es con clear*/
+body{
+	padding: 30px;
+
+}
+.anterior{
+	float: left;
+}
+.siguiente{
+	float: right;
+}
+.clear{
+	clear: both;
+}

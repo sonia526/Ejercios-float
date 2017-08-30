@@ -1,0 +1,17 @@
+/*///ejercio 1///////*/
+img{
+   height: 100px;
+}
+
+p{
+	font-size: 1.5em;
+	text-align: justify;
+}
+.img1{
+float: left;
+	} 
+.img2{
+float: right;
+}
+/*//////////////////////////*/
+

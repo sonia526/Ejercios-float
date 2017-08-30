@@ -1,0 +1,16 @@
+/*////////ejercicio3///////*/
+  *{
+   box-sizing: border-box;
+  }  
+.oso{
+	height: 100px;
+	position: absolute;
+    left: 0;
+}
+.divcard{
+	width: 300px;
+	border: 1px solid black;
+    position: relative;
+    padding-left: 100px;
+    height: 150px;
+}
